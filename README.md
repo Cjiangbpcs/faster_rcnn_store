@@ -1,6 +1,6 @@
 # faster_rcnn_store
 
-This is a python script to convert Faster RCNN body detection output to MOT17 challenge formation:
+This is a python script to run Faster RCNN body detection and then convert its output to MOT17 challenge formation:
 
 frame, id, bb-left, bb-top, bb-width, bb-height, conf, x, y, z 
 id = -1 for person
